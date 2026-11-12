@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Brainbuxx AI — VHS Science & Innovation",
+  "short_name": "Brainbuxx",
+  "description": "Context-aware conversational AI and creative workspace developed by VHS Science and Innovation. Think Clearly. Create Freely.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

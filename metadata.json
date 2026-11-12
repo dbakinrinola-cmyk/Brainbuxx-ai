@@ -1,0 +1,6 @@
+{
+  "name": "Brainbuxx AI",
+  "description": "Context-aware conversational AI and creative workspace developed by VHS Science and Innovation, powered by Google Gemini API. Think Clearly. Create Freely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
